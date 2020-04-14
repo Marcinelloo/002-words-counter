@@ -1,0 +1,2 @@
+Metoda charAt zwraca znak znajdujący            się pod wskazanym indeksem. W przypadku przekroczenia zakresu indeksu wyrzuci wyjątek:
+ StringIndexOutOfBoundsException.
